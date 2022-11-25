@@ -1,4 +1,4 @@
-# SudokuSolver
+# Sudoku Solver
 A website that can solve sudokus
 
 This is an old project I coded when I was 13. Enjoy!
