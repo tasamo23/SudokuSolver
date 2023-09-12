@@ -1,5 +1,6 @@
 # Sudoku Solver
 A website that can solve sudokus
+![A screenshot of the solver](SudokuSolver_Screenshot.png)
 
 This is an old project I coded when I was 13. Enjoy!
 
